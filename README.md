@@ -1,16 +1,7 @@
-# weather_app
+# Weather App
 
-Flutter application that shows the weather in a given city.
+Simple cross-platform application that let's the user monitor the weather conditions in their current location, as well as any other location. The application was developed using Dart, Flutter and OpenWeather API. 
 
-## Getting Started
+# Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/90746623/216431916-21ba1f60-2ccc-4594-ac11-1ca0e98b6a1d.png" width="296" height="527"/><img src="https://user-images.githubusercontent.com/90746623/216431922-991debb3-6d78-472c-ad02-86b137307ea5.png" width="296" height="527"/> 
